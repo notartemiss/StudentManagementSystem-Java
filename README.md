@@ -20,6 +20,8 @@ CREATE TABLE students (
 ); 
 
 
-![Screenshot from 2025-07-02 09-05-29](https://github.com/user-attachments/assets/62c4a4d9-c710-4041-ac9e-b21c1cbb90bc)
+output ->
 
+![Screenshot from 2025-07-02 09-49-57](https://github.com/user-attachments/assets/6fd2ff69-ccf2-4d72-831e-5c1161596ab0)
 
+![Screenshot from 2025-07-02 09-50-06](https://github.com/user-attachments/assets/e2c3dc29-b62d-48df-9810-81ce7c09c8b0)
